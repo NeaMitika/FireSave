@@ -1,26 +1,26 @@
 {
   "steam": "Steam",
   "button": {
-    "settings": "Settings",
+    "settings": "Impostazioni",
     "save": {
-      "label": "Save"
+      "label": "Salva"
     },
-    "run": "Run",
+    "run": "Avvia",
     "load": {
-      "label": "Load",
+      "label": "Carica",
       "tooltip": "Make backup and load this save point"
     },
     "reveal_in_file_explorer": {
       "label": "Reveal in File Explorer"
     },
     "add_to_favorites": {
-      "label": "Add to favorites"
+      "label": "Aggiungi ai preferiti"
     },
     "remove_save": {
-      "label": "Remove save"
+      "label": "Rimuovi salvataggio"
     },
     "open_saves_folder": {
-      "label": "Open saves folder"
+      "label": "Apri cartella salvataggi"
     },
     "open_save_point_folder": {
       "label": "Open save point folder"
@@ -28,15 +28,15 @@
   },
   "modal": {
     "default_confirm": {
-      "yes": "Yes",
-      "no": "Cancel"
+      "yes": "Si",
+      "no": "Annulla"
     },
     "remove_save_point": {
-      "label": "Remove save",
-      "description": "Are you sure you want to delete this save?"
+      "label": "Rimuovi salvataggio",
+      "description": "Sei sicuro di voler rimuovere questo salvataggio?"
     },
     "load_save_point": {
-      "label": "Load save",
+      "label": "Carica salvataggio",
       "description": "Game is currently running\nLoading might cause game to crash\nAre you sure you want to load this save?"
     }
   },
